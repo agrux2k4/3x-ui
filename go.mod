@@ -17,8 +17,8 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.8
 	github.com/xtls/xray-core v1.8.4
 	go.uber.org/atomic v1.11.0
-	golang.org/x/text v0.13.0
-	google.golang.org/grpc v1.58.1
+	golang.org/x/text v0.14.0
+	google.golang.org/grpc v1.64.0
 	gorm.io/driver/sqlite v1.5.3
 	gorm.io/gorm v1.25.4
 )
@@ -41,7 +41,6 @@ require (
 	github.com/go-playground/validator/v10 v10.15.4 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 // indirect
 	github.com/golang/mock v1.6.0 // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/btree v1.1.2 // indirect
 	github.com/google/pprof v0.0.0-20230821062121-407c9e7a662f // indirect
 	github.com/gorilla/context v1.1.1 // indirect
@@ -85,15 +84,15 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925 // indirect
 	golang.org/x/arch v0.4.0 // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
 	golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 // indirect
 	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.15.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/net v0.22.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	golang.org/x/tools v0.12.0 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230913181813-007df8e322eb // indirect
-	google.golang.org/protobuf v1.31.0 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237 // indirect
+	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	gvisor.dev/gvisor v0.0.0-20230822212503-5bf4e5f98744 // indirect
 	lukechampine.com/blake3 v1.2.1 // indirect
