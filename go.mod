@@ -17,7 +17,7 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.8
 	github.com/xtls/xray-core v1.8.4
 	go.uber.org/atomic v1.11.0
-	golang.org/x/text v0.13.0
+	golang.org/x/text v0.16.0
 	google.golang.org/grpc v1.58.1
 	gorm.io/driver/sqlite v1.5.3
 	gorm.io/gorm v1.25.4
@@ -85,13 +85,13 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	go4.org/netipx v0.0.0-20230824141953-6213f710f925 // indirect
 	golang.org/x/arch v0.4.0 // indirect
-	golang.org/x/crypto v0.13.0 // indirect
+	golang.org/x/crypto v0.23.0 // indirect
 	golang.org/x/exp v0.0.0-20230725093048-515e97ebf090 // indirect
-	golang.org/x/mod v0.12.0 // indirect
-	golang.org/x/net v0.15.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/mod v0.17.0 // indirect
+	golang.org/x/net v0.25.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
-	golang.org/x/tools v0.12.0 // indirect
+	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230913181813-007df8e322eb // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
