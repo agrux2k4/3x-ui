@@ -1,7 +1,7 @@
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/kenhtaymay/3x-ui/arm/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/agrux2k4/3x-ui/arm/install.sh)
 ```
 
 # Install custom version
@@ -9,7 +9,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/kenhtaymay/3x-ui/arm/install.s
 To install your desired version you can add the version to the end of install command. Example for ver `v1.7.8`:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/kenhtaymay/3x-ui/master/install.sh) v1.7.8
+bash <(curl -Ls https://raw.githubusercontent.com/agrux2k4/3x-ui/master/install.sh) v1.7.8
 ```
 
 # SSL
