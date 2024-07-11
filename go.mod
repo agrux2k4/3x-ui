@@ -17,10 +17,10 @@ require (
 	github.com/shirou/gopsutil/v3 v3.23.8
 	github.com/xtls/xray-core v1.8.4
 	go.uber.org/atomic v1.11.0
-	golang.org/x/text v0.13.0
+	golang.org/x/text v0.14.0
 	google.golang.org/grpc v1.58.1
 	gorm.io/driver/sqlite v1.5.3
-	gorm.io/gorm v1.25.4
+	gorm.io/gorm v1.25.11
 )
 
 require (
